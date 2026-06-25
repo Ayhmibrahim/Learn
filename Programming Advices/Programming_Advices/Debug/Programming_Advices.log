@@ -1,0 +1,3 @@
+﻿  #36 Count Each Word In String.cpp
+C:\Users\Ayhm-Laptop\source\repos\Programming_Advices\Programming_Advices\#36 Count Each Word In String.cpp(19,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Programming_Advices.vcxproj -> C:\Users\Ayhm-Laptop\source\repos\Programming_Advices\Debug\Programming_Advices.exe

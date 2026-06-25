@@ -1,0 +1,1194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Courses">
+      <UniqueIdentifier>{15bf22d3-2f87-423b-8ccf-7fd049f896b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2">
+      <UniqueIdentifier>{9f5ae8b8-413e-494d-953b-3ff9986364c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level">
+      <UniqueIdentifier>{5cfd9377-7ff6-4039-a8b4-66b085460f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\MyProgram">
+      <UniqueIdentifier>{49e53895-2d52-499b-88e4-a893f051b166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3">
+      <UniqueIdentifier>{b8a06b90-408a-4741-be8c-807134c9adeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#01 - Debugging C++ Code">
+      <UniqueIdentifier>{f2df201b-7be8-46c0-a757-0548b73ef198}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#02 - Miscellaneous">
+      <UniqueIdentifier>{1996d6b7-a489-48b3-a0a7-7a1d22708171}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#03 - More About Functions">
+      <UniqueIdentifier>{6c374a0f-8a41-431f-a4c3-984357882bba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#04 - More About Variables">
+      <UniqueIdentifier>{e47fbedb-548e-4b10-a48c-0e250f6e0ceb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#05 - Printing &amp; Formatting">
+      <UniqueIdentifier>{69aa911b-da1d-4770-8f23-e2160b9d350f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#06 - More About Arrays">
+      <UniqueIdentifier>{c42386fd-3d59-4b81-a7d5-47d713cee2ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#07 - Vectors Part I">
+      <UniqueIdentifier>{76ed0c96-df78-481a-9e71-7dbe2935ee49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#08 - References">
+      <UniqueIdentifier>{f29049fb-4604-46e9-a94a-f4f7f25ad461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers">
+      <UniqueIdentifier>{11394ba0-f01a-436b-8747-77d06a8e54d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#10 - Dynamic Memory Allocation">
+      <UniqueIdentifier>{a1c0f9d7-f191-4ba3-b544-e7ce959efc9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#11 - Vectors Part II">
+      <UniqueIdentifier>{c09421c9-f66d-4361-9b56-f4039a6fd4ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#12 - Exception Handling">
+      <UniqueIdentifier>{883dacd8-db44-4458-8e10-5595b47fef9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#13 - Dealing With Strings">
+      <UniqueIdentifier>{c3e0b3c5-3fdd-49e5-b0a7-b551c4c11035}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#14 - Files">
+      <UniqueIdentifier>{2fa56faf-0f74-490d-b481-3874d6b109b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\06 - Introduction to Programming Using C++ Level\#15 - DateTime">
+      <UniqueIdentifier>{03e05c06-765e-4c19-8f9b-735376aaf6ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1">
+      <UniqueIdentifier>{46f08ca4-3917-4353-9366-8cfae549f0fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem_Solving_CPP">
+      <UniqueIdentifier>{72b82123-a7f2-4c4c-8854-e3c43c706ba0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem_Solving_CPP\String">
+      <UniqueIdentifier>{d8b1b2c0-098f-4f75-a499-5e1cd8dffd5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem_Solving_CPP\String\Level 2 %28Strings + Logic%29">
+      <UniqueIdentifier>{a5ca85a9-e6c4-4ccc-8d39-3c1bc9861968}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem_Solving_CPP\String\Level 3 %28Split + Vector%29">
+      <UniqueIdentifier>{6fe3cfd0-acf2-4060-b12f-db80d424e24c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem_Solving_CPP\String\Level 4 %28Reverse + Manipulation%29">
+      <UniqueIdentifier>{15a0f21d-cf27-469e-82f6-e42014d75132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem_Solving_CPP\String\Level 5 %28Advanced Thinking%29">
+      <UniqueIdentifier>{414bddd0-494a-43e4-ad0a-128e49f99df0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem_Solving_CPP\String\Level 1 %28Basics%29">
+      <UniqueIdentifier>{e86b56c3-e377-4654-a22e-704a099932b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem_Solving_CPP\String\Challenges">
+      <UniqueIdentifier>{0fc6e0bb-4ce0-4ce7-b355-875cb9e2e556}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem_Solving_CPP\My Solution">
+      <UniqueIdentifier>{601ea990-8eac-48a8-b5c7-9a265db201a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4">
+      <UniqueIdentifier>{bf680452-53ac-43a7-9661-7723d57ee017}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10">
+      <UniqueIdentifier>{4c766bca-e9f4-4c96-881b-7fa69fe4936e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Projects">
+      <UniqueIdentifier>{5cc2f627-a590-4bdc-ae43-58ba07fbc726}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65">
+      <UniqueIdentifier>{2b6cbce8-ce36-4875-a4b1-def14a8be7bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #20 to #55">
+      <UniqueIdentifier>{3e7e7028-c856-4bd6-be80-652b4f48175b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20">
+      <UniqueIdentifier>{3082fa58-9867-4c02-b465-cf3dda66f030}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29">
+      <UniqueIdentifier>{292492ad-1e8b-44d0-9ade-e90dee1171a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#01 - Classes &amp; Objects">
+      <UniqueIdentifier>{c2aa219b-1be7-4167-9e67-bc2899bf7557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#02 - Access Specifiers/Modifiers">
+      <UniqueIdentifier>{27d5f4b3-97b0-4303-bd54-a7d00d795ea7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#03 - Properties">
+      <UniqueIdentifier>{1a0ba867-c5a1-49a6-8b6a-25f1c3bebe68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#04 - Project1">
+      <UniqueIdentifier>{448b17e7-05b2-4ae7-a9ac-939aaff6ca56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#05 - Constructors &amp; Destructors">
+      <UniqueIdentifier>{cac63023-14a3-4a92-9689-7d55474ad6ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#06 - Static Members &amp; Methods">
+      <UniqueIdentifier>{c6a93d90-e7dc-4928-b71b-63fd354c2ed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#07 - Exercises and Homework">
+      <UniqueIdentifier>{ccece12f-688d-4868-a07a-c2bdd56eb243}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance">
+      <UniqueIdentifier>{1d2bb86c-6db4-4bda-b786-5f5a008df51e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#09 - Polymorphism">
+      <UniqueIdentifier>{77320605-decb-4be7-9d44-802a8c20083c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#10 - Friend Classes &amp; Friend Functions">
+      <UniqueIdentifier>{6d0ce079-bd1d-4517-9014-3c1da97162a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#11 - Structure Inside Class">
+      <UniqueIdentifier>{87010eb3-baf1-4813-9a41-700efa4440e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#12 - ‘this’ pointer in C++">
+      <UniqueIdentifier>{5cfb1a00-b6f5-451e-a262-819cc1d558d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#13 - Misc">
+      <UniqueIdentifier>{13b9927d-cce7-41e6-b891-dbfcbb6c8567}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#14 - Projects Library">
+      <UniqueIdentifier>{160d6754-2d4b-4078-bc54-53401799e541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\03 - Introduction to Programming with C++ – Level 1">
+      <UniqueIdentifier>{a18e9cfc-cccb-49c3-86a7-479f36a1886a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\11 - OOP as it Should Be %28Applications%29">
+      <UniqueIdentifier>{a1d88875-de38-4b0e-8c94-e1f87355ef4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#01 - Project 1: Utility Library.">
+      <UniqueIdentifier>{f35e8165-b7a2-4740-8575-850d331840d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#02 - Project 2: Input and Validation Library">
+      <UniqueIdentifier>{04ff77b9-71e8-4b46-943d-d90d8d74101d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#03 - Project 3: Bank System">
+      <UniqueIdentifier>{5b5e50b9-118b-4646-a871-a18fdab10836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NewFilter1">
+      <UniqueIdentifier>{ecb3a574-bb40-4750-a8e2-247a7d97a456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Bank">
+      <UniqueIdentifier>{0c2fd3f2-f00c-4340-8f53-7f9129255151}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\12 - Data Structures - Level1">
+      <UniqueIdentifier>{099c6e26-ea39-4dfd-9895-f0806b84df19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\12 - Data Structures - Level1\Singly Linked List">
+      <UniqueIdentifier>{a916a02e-d592-438d-b09c-a338e6c98081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\12 - Data Structures - Level1\Doubly Linked List">
+      <UniqueIdentifier>{df9a2039-06ed-4255-959b-c0b9c0d99339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#04 - Template Functions &amp; Classes">
+      <UniqueIdentifier>{26bc3856-da5c-4101-aed7-a34adb64c022}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Problem_#1.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#2.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#3.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#4.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#5.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#6.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#7.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#8.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#9.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#10.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#11.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#12.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#14.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#13.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#15.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#17.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#16.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#19.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#18.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#20.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#22.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#23.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#24.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#25.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#26.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#21.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#27.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#28.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#29.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#31.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#30.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#32.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#33.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#34.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#35.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#36.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#37.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#38.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#39.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#40.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#41.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#42.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#43.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#44.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#46.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#47.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_48.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_49.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_50.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Project 1 - Solution.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Project 1- Requirements.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Project 2 - Solution.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_#45.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Project 2 Math Game.cpp">
+      <Filter>Source Files\Courses\05 - Algorithms &amp; Problem-Solving – Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #02 - Breakpoint &amp; Memory Values.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#01 - Debugging C++ Code</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #12 - Bitwise AND operator.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#02 - Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #09 - Ternary Operator Short Hand IF.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#02 - Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #10 - Ranged Loop.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#02 - Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #11 - Validate Number.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#02 - Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #14 - Declaration Vs Definition.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#03 - More About Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #15 - Default Parameters.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#03 - More About Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #16 - Function Overloading.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#03 - More About Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #17 - Call Stack\Lesson #17 - Call Stack Call Hierarchy.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#03 - More About Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #18 - VS Function Tips.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#03 - More About Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #19 - Recursion - Homework.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#03 - More About Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #19 - Recursion - Homework2.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#03 - More About Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #19 - Recursion.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#03 - More About Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #20 - Static Variables.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#04 - More About Variables</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #21 - Automatic Variables.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#04 - More About Variables</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #22 - Register Variable.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#04 - More About Variables</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #26 - Setw Manipulator.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#05 - Printing &amp; Formatting</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #23 - Integer Format printf .cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#05 - Printing &amp; Formatting</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #24 - Float Format printf.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#05 - Printing &amp; Formatting</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #25 - String and Char Format printf.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#05 - Printing &amp; Formatting</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #27 - Two Dimensional Arrays - HomeWork.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#06 - More About Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #27 - Two Dimensional Arrays.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#06 - More About Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #28 - Introduction  Declaration and Initialization.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#07 - Vectors Part I</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #29 -  My Homework Solution.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#07 - Vectors Part I</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #29 - Add elements.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#07 - Vectors Part I</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #29 - Homework Solution.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#07 - Vectors Part I</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #30 - Homework .cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#07 - Vectors Part I</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #30 - Vector of Structure.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#07 - Vectors Part I</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #31 - Remove elements.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#07 - Vectors Part I</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #32 - Vector Functions.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#07 - Vectors Part I</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #33 - Call ByRef-ByVal Important Review..cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#08 - References</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #34 - Creating References.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#08 - References</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #35 - What is Pointer.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #36 - Dereferencing Pointer.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #37 - Common Mistakes with Pointers.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #38 - Pointers vs References.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #39 - Call by Reference - Using pointers.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #40 - Pointers and Arrays in Loop.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #40 - Pointers and Arrays.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #41 - Pointers and Structure.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #42 - Pointer to Void.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#09 - Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #43 - Memory Management new and delete.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#10 - Dynamic Memory Allocation</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #44 - Dynamic Arrays new and delete.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#10 - Dynamic Memory Allocation</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #46 - Access Elements.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#11 - Vectors Part II</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #47 - Change Elements.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#11 - Vectors Part II</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #48 - Vector Iterators.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#11 - Vectors Part II</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #49 - Try Catch.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#12 - Exception Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #50 - String Object Common Methods.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#13 - Dealing With Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #51 - Some CCTYPE Functions.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#13 - Dealing With Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #51 - Some CCTYPE FunctionsHomework.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#13 - Dealing With Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #52 - Write Mode Write Data To File.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#14 - Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #53 - Append Mode Append Data to File.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#14 - Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #54 - Read Mode Print File Content.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#14 - Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #55 - Load Data From File to Vector Homework.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#14 - Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #55 - Load Data From File to Vector.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#14 - Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #56 - Save Vector to File.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#14 - Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #57 - Delete Record From File.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#14 - Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #58 - Update Record In File.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#14 - Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #60 -  Datetime Structure.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#15 - DateTime</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #59 - Datetime Local-UTC Time.cpp">
+      <Filter>Source Files\Courses\06 - Introduction to Programming Using C++ Level\#15 - DateTime</Filter>
+    </ClCompile>
+    <ClCompile Include="#01 3x3 Ranmdom Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#02 3x3 Sum Each Row in Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#03 3x3 Sum Each Row in Matrix in Array.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#04 3x3 Sum Each Col in Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#05 3x3 Sum Each Col in Matrix In Another Array.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#06 3x3 Ordered Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#07 Traspose Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#08 Multiply Tow Matrices.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#09 Print Middle Row and Col of Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#10 Sum of Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#11 Check Matrices Equality.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#12 Check Typical Matrices.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#13 Check Identity Matrices.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#14 Check Scalar Matrices.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#15 Count Number in Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#16 Check Sparse Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#17 Number Exists In Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#18 Intersected Number In Matrices .cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#19 Min\#19 Max Number in Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#20 Palindrome Matrix.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#21 Fibonacci Series.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#22 Fibonacci Series With Recursion.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#23 Print First Letter of Each Word.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#24 Upper First Letter of Each Word.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#25 Lower First Letter of Each Word.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#26 Upper Lower All Letters of a String.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#27 Invert Charccter Case.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#28 Invert All Letters Case.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#29 Count Small-Capital Letters.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#32 Is Vowel.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#30 Count Letters.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#31 Count Letters Match Case.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#33 Count Vowel.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#34 Print All Vowel In String.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#35 Print Each Word In String.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#36 Count Each Word In String.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#37 Split String.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#38 TrimLeft, TrimRight, Trim.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#1 Print Your Name.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="#2 Read Name and Print It.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Templete.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#40 Join String Overloading.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#39 Join String.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#41 Reverse Words.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="30_String_Compression.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="26_Check_Palindrome.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="27_Most_Frequent_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="28_Word_Length_Statistics.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="29_Custom_Split_Function.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="25_Replace_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 5 %28Advanced Thinking%29</Filter>
+    </ClCompile>
+    <ClCompile Include="22_First_Letter_From_Each_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 5 %28Advanced Thinking%29</Filter>
+    </ClCompile>
+    <ClCompile Include="23_Sort_Words_Alphabetically.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 5 %28Advanced Thinking%29</Filter>
+    </ClCompile>
+    <ClCompile Include="24_Remove_Duplicate_Words.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 5 %28Advanced Thinking%29</Filter>
+    </ClCompile>
+    <ClCompile Include="21_Remove_Extra_Spaces.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 4 %28Reverse + Manipulation%29</Filter>
+    </ClCompile>
+    <ClCompile Include="18_Reverse_String.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 4 %28Reverse + Manipulation%29</Filter>
+    </ClCompile>
+    <ClCompile Include="19_Reverse_Words.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 4 %28Reverse + Manipulation%29</Filter>
+    </ClCompile>
+    <ClCompile Include="20_Reverse_Each_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 4 %28Reverse + Manipulation%29</Filter>
+    </ClCompile>
+    <ClCompile Include="17_Count_Word_Occurrence.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 3 %28Split + Vector%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13_Split_String.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 3 %28Split + Vector%29</Filter>
+    </ClCompile>
+    <ClCompile Include="14_Join_String.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 3 %28Split + Vector%29</Filter>
+    </ClCompile>
+    <ClCompile Include="15_Remove_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 3 %28Split + Vector%29</Filter>
+    </ClCompile>
+    <ClCompile Include="16_Find_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 3 %28Split + Vector%29</Filter>
+    </ClCompile>
+    <ClCompile Include="12_Shortest_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 2 %28Strings + Logic%29</Filter>
+    </ClCompile>
+    <ClCompile Include="07_Count_Words.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 2 %28Strings + Logic%29</Filter>
+    </ClCompile>
+    <ClCompile Include="08_Print_Each_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 2 %28Strings + Logic%29</Filter>
+    </ClCompile>
+    <ClCompile Include="09_First_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 2 %28Strings + Logic%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10_Last_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 2 %28Strings + Logic%29</Filter>
+    </ClCompile>
+    <ClCompile Include="11_Longest_Word.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 2 %28Strings + Logic%29</Filter>
+    </ClCompile>
+    <ClCompile Include="#42 Replace Words.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#43 Replace Word My Custom.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#43 Replace Word Custom.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="01_Read_And_Print.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 1 %28Basics%29</Filter>
+    </ClCompile>
+    <ClCompile Include="02_String_Length.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 1 %28Basics%29</Filter>
+    </ClCompile>
+    <ClCompile Include="03_First_And_Last_Char.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 1 %28Basics%29</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Count_Spaces.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 1 %28Basics%29</Filter>
+    </ClCompile>
+    <ClCompile Include="05_To_Uppercase.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 1 %28Basics%29</Filter>
+    </ClCompile>
+    <ClCompile Include="06_To_Lowercase.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\String\Level 1 %28Basics%29</Filter>
+    </ClCompile>
+    <ClCompile Include="#44 Remove Punctuations.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#45 Convert Record to Line.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="#46 Convert Line Data To Record.cpp">
+      <Filter>Source Files\Courses\07 - Algorithms &amp; Problem Solving Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadNewClient.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\My Solution</Filter>
+    </ClCompile>
+    <ClCompile Include="#01 Number to Text.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#02 Leap year.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#03 Leap year One Line Of Code.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#04 Number of Days Hours Minutes .cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#05 Number of Days Hours Minutes Seconds In a Month.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#06 Number of Days In a Month Short Logic.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#07 Day Name.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#08 Month Calendar.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#09 Year Calendar.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#10 Days From the beginning of Year.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #01 to #10</Filter>
+    </ClCompile>
+    <ClCompile Include="#11 Data from Day Order In a Year.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20</Filter>
+    </ClCompile>
+    <ClCompile Include="#12 Add Days ti Date.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20</Filter>
+    </ClCompile>
+    <ClCompile Include="#13 Date1 Less Than Date 2.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20</Filter>
+    </ClCompile>
+    <ClCompile Include="#14 Date1 Equals to Date 2.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20</Filter>
+    </ClCompile>
+    <ClCompile Include="#15 Last Day Last Month.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20</Filter>
+    </ClCompile>
+    <ClCompile Include="#16 Increase Date By One Day.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20</Filter>
+    </ClCompile>
+    <ClCompile Include="#17 Diff In Days.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20</Filter>
+    </ClCompile>
+    <ClCompile Include="#19 Diff In Days Negative Days.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20</Filter>
+    </ClCompile>
+    <ClCompile Include="#20 to #32 Increase Date ByXDays.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #20 to #55</Filter>
+    </ClCompile>
+    <ClCompile Include="#33 to 46 Decrease Date Problems.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #20 to #55</Filter>
+    </ClCompile>
+    <ClCompile Include="#47-53 More Date Problems.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #20 to #55</Filter>
+    </ClCompile>
+    <ClCompile Include="#54  Calculate Vacation Days.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #20 to #55</Filter>
+    </ClCompile>
+    <ClCompile Include="#55 Calculate Vacation Return Date.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #20 to #55</Filter>
+    </ClCompile>
+    <ClCompile Include="#56 Is Date 1 After Date2 .cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65</Filter>
+    </ClCompile>
+    <ClCompile Include="#57 Compare Date Function.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65</Filter>
+    </ClCompile>
+    <ClCompile Include="#58 Is Overlap Periods.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65</Filter>
+    </ClCompile>
+    <ClCompile Include="#59 Period Length In Days.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65</Filter>
+    </ClCompile>
+    <ClCompile Include="#60 Is Date Within Period.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65</Filter>
+    </ClCompile>
+    <ClCompile Include="#61 Count Overlap Days.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65</Filter>
+    </ClCompile>
+    <ClCompile Include="#62 Validate Date .cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65</Filter>
+    </ClCompile>
+    <ClCompile Include="Project 1 Bank Extension 2 Requirements.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Projects</Filter>
+    </ClCompile>
+    <ClCompile Include="Project 2 - ATM System.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Projects</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes and Objects.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#01 - Classes &amp; Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Access Specifiers-Modifiers.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#02 - Access Specifiers/Modifiers</Filter>
+    </ClCompile>
+    <ClCompile Include="Properties Set and Get.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#03 - Properties</Filter>
+    </ClCompile>
+    <ClCompile Include="Read Only Property.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#03 - Properties</Filter>
+    </ClCompile>
+    <ClCompile Include="Chack Age.cpp">
+      <Filter>Source Files\Problem_Solving_CPP\My Solution</Filter>
+    </ClCompile>
+    <ClCompile Include="Project 1 Calculator - Requirements.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#04 - Project1</Filter>
+    </ClCompile>
+    <ClCompile Include="Destructors.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#05 - Constructors &amp; Destructors</Filter>
+    </ClCompile>
+    <ClCompile Include="Copy Constructors.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#05 - Constructors &amp; Destructors</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructors.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#05 - Constructors &amp; Destructors</Filter>
+    </ClCompile>
+    <ClCompile Include="Static Members.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#06 - Static Members &amp; Methods</Filter>
+    </ClCompile>
+    <ClCompile Include="Static Methods Functions.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#06 - Static Members &amp; Methods</Filter>
+    </ClCompile>
+    <ClCompile Include="Person Exercise - Requirements.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#07 - Exercises and Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework - Employee Exercise.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#07 - Exercises and Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework - Developer Exercise.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Function Overriding.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Access Specifiers\Access Specifiers-Modifiers Review.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Parameterized Constructor of the Base Class.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Third Principle-Concept of OOP Inheritance.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Inheritance Visibility Modes.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Up Casting vs Down Casting.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Virtual Functions.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Static Early Binding vs Dynamic Late Binding.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#08 - Inheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Interfaces Pure Virtual Functions and Abstract Classes.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#09 - Polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="Freind Classes.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#10 - Friend Classes &amp; Friend Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Friend Function.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#10 - Friend Classes &amp; Friend Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Structure Inside Class.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#11 - Structure Inside Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Nested Classes - Constructor Homework Solution.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#11 - Structure Inside Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Nested Classes - Constructor Homework.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#11 - Structure Inside Class</Filter>
+    </ClCompile>
+    <ClCompile Include="What is ‘this’ pointer.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#12 - ‘this’ pointer in C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Passing Objects to Functions ByRef-ByVal .cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#13 - Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects and Vectors.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#13 - Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects and Dynamic Array.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#13 - Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects with Parameterized Constructor and Array.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#13 - Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="String Library Project Solution.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#14 - Projects Library</Filter>
+    </ClCompile>
+    <ClCompile Include="#63 - 64 Problems.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem #65.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #56 to #65</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Programming-Foundations-Roadmap\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20\#18 Your Age In Days.cpp">
+      <Filter>Source Files\Courses\08 - Algorithms &amp; Problem Solving Level 4\Problems From #11 to #20</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #48 - For Loop &amp; Arrays.cpp">
+      <Filter>Source Files\Courses\03 - Introduction to Programming with C++ – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Date Library Project.cpp">
+      <Filter>Source Files\Courses\10 - OOP as it Should Be %28Concepts%29\#14 - Projects Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility Library Requirements.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#01 - Project 1: Utility Library.</Filter>
+    </ClCompile>
+    <ClCompile Include="Input &amp; Validation Library Requirements.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#02 - Project 2: Input and Validation Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #02 - Update Client.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#03 - Project 3: Bank System</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #03 - Add New Client.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#03 - Project 3: Bank System</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #04 - Delete Client.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#03 - Project 3: Bank System</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #05 - List Clients.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#03 - Project 3: Bank System</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #06 - Total Balances.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#03 - Project 3: Bank System</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #07 - Main Screen.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#03 - Project 3: Bank System</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson #01 - Find Client.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#03 - Project 3: Bank System</Filter>
+    </ClCompile>
+    <ClCompile Include="#3 Problem.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="#4 - Hire a Driver Case 1 .cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="#5 - Hire a Driver Case 2 .cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="#6 - Full Name.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem #7 - Half Number.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem #8 - Pass-Fail .cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem #9 - Sum of 3 Numbers.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem #10 - Average of 3 numbers.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem #12 - Max of 2 Numbers.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem #13 - Max of 3 Numbers.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem #14 - Swap 2 Numbers.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem #15 - Rectangle Area.cpp">
+      <Filter>Source Files\Courses\04 - Algorithms &amp; Problem-Solving – Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="STL Stack.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack Swap.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="STL Queue.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Delete Node.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Singly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Find.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Singly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Insert After.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Singly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Insert At Beginning.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Singly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Insert At End.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Singly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Singly Linked List Implementation.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Singly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Delete First Node.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Singly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Delete Last Node.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Singly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Doubly Linked List Implementation.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Doubly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations -Insert At Beginning.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Doubly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Find Node.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Doubly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="dbOperations - Insert After.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Doubly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Insert at Endd.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Doubly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Template Functions.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#04 - Template Functions &amp; Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Template Classes.cpp">
+      <Filter>Source Files\Courses\11 - OOP as it Should Be %28Applications%29\#04 - Template Functions &amp; Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Dbl Operations - Delete Node.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Doubly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="duble Operations - Delete First Node.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Doubly Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="Operations - Delete Last Noded.cpp">
+      <Filter>Source Files\Courses\12 - Data Structures - Level1\Doubly Linked List</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Code After Separation\clsEmployee.h">
+      <Filter>Header Files\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPeriod.h">
+      <Filter>Header Files\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtil.h">
+      <Filter>Header Files\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTimeUtilsLib.h">
+      <Filter>Header Files\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files\NewFilter1</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewClientScreen.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBankClient.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsClientListScreen.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteClientScreen.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainScreen.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Resource Files\MyProgram</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindClientScreen.h">
+      <Filter>Resource Files\MyProgram</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Resource Files\MyProgram</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Resource Files\MyProgram</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateClientScreen.h">
+      <Filter>Resource Files\MyProgram</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransactionsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\TemplateClass\clsInputValidate.h">
+      <Filter>Header Files\Bank</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
